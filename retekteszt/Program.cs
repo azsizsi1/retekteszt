@@ -10,6 +10,7 @@ namespace retekteszt
     {
         static void Main(string[] args)
         {
+            int asd;
         }
     }
 }
